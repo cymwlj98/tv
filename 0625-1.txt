@@ -1,3 +1,4 @@
+"spider":"https://raw.githubusercontents.com/cymwlj98/tv/master/0625.jar",
 {"sites":[
 {"key":"csp_77","name":"pglblb","type":3,"api":"csp_Kunyu77","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_77","name":"七七🏀","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
