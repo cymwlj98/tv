@@ -54,7 +54,7 @@
 {"key":"csp_xpath_网络搜集源23","name":"AGE","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/x/raw/branch/main/604-age.js"},{"key":"csp_biubiu_风车动漫","name":"风车","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/d05-fcdm.js"},
 {"key":"csp_biubiu_森屋新番","name":"森屋","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/d02-swxf.js"},
 {"key":"csp_biubiu_维奇动漫","name":"维奇","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0}],
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}],
 
 "lives":[
 {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uc3RhdGljYWx5LmNvbS9naC90dmJ3L215dHYvbWFpbi90djg4"]}]}],
@@ -82,4 +82,4 @@
 
 "wallpaper":"https://picsum.photos/1080",
 
-"spider":"https://raw.githubusercontent.com/cymwlj98/tv/master/0625/0625.jar"}
+"spider":"https://raw.githubusercontents.com/cymwlj98/tv/master/0625/0625.jar"}
